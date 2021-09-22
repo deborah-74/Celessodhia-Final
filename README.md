@@ -52,3 +52,6 @@ I wanted the user to confused and quite scared when they would first enter this 
 ### What would I do differently?
 
 To improve my project, I will take advantage of the sounds and scripting them so that they would only play when a certain action is done, such as when an object is in view. I would also make more use of environmental storytelling, to suggest that people had visited that particle place not too long ago. Perhaps I would scatter some human objects around, or objects that hint at what sin the user themselves committed. But overall, I am pleased with my project as I learnt a lot about Unity and how to create imersive storytelling!
+
+![Alt Text](https://github.com/deborah-74/Celessodhia-Final/blob/main/Screenshot%202021-09-18%20at%2016.44.41.png)
+![Alt Text](https://github.com/deborah-74/Celessodhia-Final/blob/main/Screenshot%202021-09-18%20at%2017.47.17.png)
